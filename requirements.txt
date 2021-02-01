@@ -4,4 +4,9 @@ geopandas
 scikit-learn
 jupyter
 matplotlib
-
+plotly
+ipywidgets
+notebook
+fbprophet
+statsmodel
+joblib
