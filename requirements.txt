@@ -9,4 +9,5 @@ ipywidgets
 notebook
 fbprophet
 statsmodel
-joblib
+tensorflow
+scipy
